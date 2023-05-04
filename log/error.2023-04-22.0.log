@@ -1,0 +1,30 @@
+2023-04-22 15:19:19.356 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :42   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.mapper.EbookMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.mapper.EbookMapper' in your configuration.
+
+2023-04-22 16:16:50.718 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :42   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+

@@ -1,0 +1,7 @@
+#GET http://localhost:8880/ebook/getAllEbook
+#Accept: application/json
+
+GET http://localhost:8880/ebook/getEbook?name=spring
+Accept: application/json
+
+###

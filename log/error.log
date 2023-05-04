@@ -1,0 +1,135 @@
+2023-05-04 19:40:44.041 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
+2023-05-04 19:43:36.596 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
+2023-05-04 19:43:38.630 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
+2023-05-04 19:43:53.791 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
+2023-05-04 19:43:55.858 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
+2023-05-04 19:44:19.481 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
+2023-05-04 19:44:21.548 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
+2023-05-04 19:44:39.153 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
+2023-05-04 19:44:41.231 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.frank.wiki.service.EbookService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.frank.wiki.service.EbookService' in your configuration.
+
