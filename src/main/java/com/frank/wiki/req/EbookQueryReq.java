@@ -4,7 +4,7 @@ package com.frank.wiki.req;
  * 假设用户可能会把id 和名字作为查询条件
  * 当然真实情况下可能远远不止两个
  */
-public class EbookReq extends PageReq {
+public class EbookQueryReq extends PageReq {
     private Long id;
     private String name;
 
